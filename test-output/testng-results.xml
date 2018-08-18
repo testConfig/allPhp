@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18059" started-at="2018-08-18T04:46:43Z" finished-at="2018-08-18T04:47:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18059" started-at="2018-08-18T04:46:43Z" finished-at="2018-08-18T04:47:01Z">
+      <class name="Test.Login.TC002_LoginWithVaildAdminIdandPassWord">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Test.Login.TC002_LoginWithVaildAdminIdandPassWord@7cd62f43]" name="setUp" is-config="true" duration-ms="16107" started-at="2018-08-18T00:46:43Z" finished-at="2018-08-18T00:46:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="singupFrom()[pri:0, instance:Test.Login.TC002_LoginWithVaildAdminIdandPassWord@7cd62f43]" name="singupFrom" duration-ms="1726" started-at="2018-08-18T00:46:59Z" finished-at="2018-08-18T00:47:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- singupFrom -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Test.Login.TC002_LoginWithVaildAdminIdandPassWord@7cd62f43]" name="close" is-config="true" duration-ms="203" started-at="2018-08-18T00:47:01Z" finished-at="2018-08-18T00:47:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Test.Login.TC002_LoginWithVaildAdminIdandPassWord -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
